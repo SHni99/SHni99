@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ni Shenghan
+- 👋 Hi, I’m Ni Shenghan. My personal website: https://shenghan-page.netlify.app/
 - 👀 I’m interested in Software Engineering as well as Machine Learning
 - 😄 Areas of specialization in NUS: Database, Cybersecurity (software), AI & Machine Learning, Software Engineering
 - 🌱 I’m proficient in Java, Javascript, C, Python, Rust.
